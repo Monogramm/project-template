@@ -1,5 +1,4 @@
-Contributing
-============
+# Contributing
 
 First of all, **thank you** for contributing, **you are awesome**!
 
@@ -10,6 +9,7 @@ Here are a few rules to follow in order to ease code reviews and discussions bef
 <!--
     [TODO] Replace the best practices depending on the project's language and framework.
 -->
+
 You MUST follow the [Best practices for this project language and framework](https://en.wikipedia.org/wiki/Best_coding_practices). If you don't know about any of them, you should really read the recommendations.
 
 You MUST run the CI test suite and ensure it is successful. If you haven't enabled it on your fork, it will be automatically triggered when opening/pushing a Pull Request (PR).

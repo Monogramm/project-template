@@ -22,6 +22,8 @@ script:
   - echo "[TODO] Test that your project Unit Tests execute properly"
   # Run project
   - echo "[TODO] Test that your project runs properly"
+  # [TODO] Remove when real tests added
+  - exit 1
 
 notifications:
   email: false
